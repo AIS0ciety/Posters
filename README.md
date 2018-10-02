@@ -34,6 +34,9 @@ We welcome all who can will like to participate, we will rank posters top 4 will
 ![2](https://user-images.githubusercontent.com/32489939/46371914-41c3f700-c6a7-11e8-9ed3-6877d5cca01a.jpg)
 [![](https://api.gh-polls.com/poll/01CRV47QH249W2ZQ42QG3AC4RQ/awesome)](https://api.gh-polls.com/poll/01CRV47QH249W2ZQ42QG3AC4RQ/awesome/vote)
 [![](https://api.gh-polls.com/poll/01CRV47QH249W2ZQ42QG3AC4RQ/not%20so%20awesome)](https://api.gh-polls.com/poll/01CRV47QH249W2ZQ42QG3AC4RQ/not%20so%20awesome/vote)
+![untitled design](https://user-images.githubusercontent.com/32489939/46372656-65883c80-c6a9-11e8-9e74-89727fc1211f.png)
+[![](https://api.gh-polls.com/poll/01CRV541K0BT8HAC0RVT1QV6S6/Amazing)](https://api.gh-polls.com/poll/01CRV541K0BT8HAC0RVT1QV6S6/Amazing/vote)
+[![](https://api.gh-polls.com/poll/01CRV541K0BT8HAC0RVT1QV6S6/not%20so%20amazing)](https://api.gh-polls.com/poll/01CRV541K0BT8HAC0RVT1QV6S6/not%20so%20amazing/vote)
 
 #### HACKTILLEND
 ![HACKTILLEND](https://user-images.githubusercontent.com/22680912/46370895-7e422380-c6a4-11e8-8f93-b531798cc457.jpeg)

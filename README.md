@@ -41,9 +41,13 @@ We welcome all who can will like to participate, we will rank posters top 4 will
 [![](https://api.gh-polls.com/poll/01CRV5RT1R8XDCFN1SJVGAGE8Z/Amazing)](https://api.gh-polls.com/poll/01CRV5RT1R8XDCFN1SJVGAGE8Z/Amazing/vote)
 [![](https://api.gh-polls.com/poll/01CRV5RT1R8XDCFN1SJVGAGE8Z/not%20so%20Amazing)](https://api.gh-polls.com/poll/01CRV5RT1R8XDCFN1SJVGAGE8Z/not%20so%20Amazing/vote)
 
+
 #### HACKTILLEND
 ![HACKTILLEND](https://user-images.githubusercontent.com/22680912/46370895-7e422380-c6a4-11e8-8f93-b531798cc457.jpeg)
 
 
 [![](https://api.gh-polls.com/poll/01CRV2RAZP7ZR14X9ECJ45PWVY/Awesome)](https://api.gh-polls.com/poll/01CRV2RAZP7ZR14X9ECJ45PWVY/Awesome/vote)
 [![](https://api.gh-polls.com/poll/01CRV2RAZP7ZR14X9ECJ45PWVY/not%20so%20Awesome)](https://api.gh-polls.com/poll/01CRV2RAZP7ZR14X9ECJ45PWVY/not%20so%20Awesome/vote)
+![whatsapp image 2018-10-05 at 20 17 49](https://user-images.githubusercontent.com/32489939/46551685-0408dd80-c8f6-11e8-9adb-aca0b25c97aa.jpeg)
+[![](https://api.gh-polls.com/poll/01CS2P1K5QRVGRCM432SYNVZY5/Amazing!)](https://api.gh-polls.com/poll/01CS2P1K5QRVGRCM432SYNVZY5/Amazing!/vote)
+[![](https://api.gh-polls.com/poll/01CS2P1K5QRVGRCM432SYNVZY5/not%20so%20amazing!)](https://api.gh-polls.com/poll/01CS2P1K5QRVGRCM432SYNVZY5/not%20so%20amazing!/vote)
